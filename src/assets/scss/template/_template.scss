@@ -1,0 +1,50 @@
+// These are the styles to make some of the templates look extra nice.
+// Feel free to remove these styles for production!
+
+// Body Styles 
+body,
+html, 
+.body {
+  background: #E1E1E1 !important;
+  padding-bottom: 10px !important; 
+}
+.header{
+  padding-top: 10px !important;
+  padding-bottom: 5px !important;
+  padding-left: 20px !important;
+}
+.format{
+  padding-left: 30px;
+}
+.confirm{
+  line-height: 3;
+}
+.account{
+  line-height: 2.3;
+}
+.bottom{
+  padding-bottom: 25px !important;
+}
+span p{
+  font-weight: bold !important;
+  line-height: 1.5;
+}
+.line-height{
+  line-height: 1.5;
+}
+.bg{
+  background-color: #5f6063;
+  .ga-power{
+    font-size: 11px;
+    color: #ffffff !important;
+    padding-top: 15px !important;
+    padding-left: 15px !important;
+    padding-bottom: 0px !important;
+  }
+}
+.light-logo{
+    padding-top: 15px !important;
+    padding-right: 15px !important;
+    padding-bottom: 15px !important;
+}
+
