@@ -1,4 +1,12 @@
-# Foundation for Emails Template
+# GA Power Transactional Email Template Using Foundation
+
+[![devDependency Status](https://david-dm.org/zurb/foundation-emails-template/dev-status.svg)](https://david-dm.org/zurb/foundation-emails-template#info=devDependencies)
+
+ This is a transactional email that I built with Foundation. I used Inky, html, css, and sass to build this project.
+It's responsive on desktops, tablets, and mobile devices.
+
+[Link to project](https://gapower-email.netlify.app/)
+![GA Power email](	https://i.ibb.co/rFG30Zk/gapower.png)
 
 [![devDependency Status](https://david-dm.org/zurb/foundation-emails-template/dev-status.svg)](https://david-dm.org/zurb/foundation-emails-template#info=devDependencies)
 
